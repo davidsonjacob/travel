@@ -1,10 +1,12 @@
 # PHPTRAVELS
 
 http://www.phptravels.net/ 
+
 It offers a web page where you can test online booking for hotel, flight, tours, and travel.
 It even lands you a login page which takes email id as the user name.
 
 http://www.phptravels.net/admin/ 
+
 Here you simply can do sign-in, opt to reset and even notify for a lost password.
 
 
