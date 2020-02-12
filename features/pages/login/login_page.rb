@@ -1,3 +1,5 @@
+#teste alterando códgio pelo GIT
+
 class LoginPage < SitePrism::Page 
 
   set_url "/login"
